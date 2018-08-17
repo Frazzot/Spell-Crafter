@@ -19,3 +19,5 @@ while running:
 
     screen.fill(BLACK)
     pg.display.flip()
+    
+    
